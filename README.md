@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Dulanjana Randu </h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&width=450&lines=Hi+there!+I'm+Ishan+Kalindu;Web+Developer+%7C+Learning+Enthusiast;Full+Stack+MERN+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&width=450&lines=Hi+there!+I'm+Dulanjana+Randu;Web+Developer+%7C+Learning+Enthusiast;Full+Stack+MERN+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG Animation" />
 </div>
 
 <div align="center">
